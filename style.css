@@ -45,7 +45,7 @@ canvas.show {
   top: 50%;
 }
 .text.show::before {
-  -webkit-text-stroke: 1px red;
+  /* -webkit-text-stroke: 1px red; */
 }
 
 button {
