@@ -1,3 +1,5 @@
+document.documentElement.requestFullscreen();
+
 function show() {
   "use strict";
 
